@@ -1,4 +1,4 @@
-# Qazi Store
+# nike Store
 
 This project is a website for Qazi Store, inspired by the Nike website design. It features a responsive layout, modern design elements, and interactive components.
 
