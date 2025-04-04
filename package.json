@@ -1,0 +1,21 @@
+{
+  "name": "qazi-store",
+  "version": "1.0.0",
+  "description": "Qazi Store website inspired by Nike design",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "qazi",
+    "store",
+    "ecommerce",
+    "retail",
+    "fashion"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
